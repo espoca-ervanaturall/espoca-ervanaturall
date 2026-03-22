@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**espoca-ervanaturall/espoca-ervanaturall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```        
+  _______   ________  _______    ______    ______        __      
+ ╱"     "│ ╱"       )│   __ "╲  ╱    " ╲  ╱" _  "╲      ╱""╲     
+(: ______)(:   ╲___╱ (. │__) :)╱╱ ____  ╲(: ( ╲___)    ╱    ╲    
+ ╲╱    │   ╲___  ╲   │:  ____╱╱  ╱    ) :)╲╱ ╲        ╱' ╱╲  ╲   
+ ╱╱ ___)_   __╱  ╲╲  (│  ╱   (: (____╱ ╱╱ ╱╱  ╲ _    ╱╱  __'  ╲  
+(:      "│ ╱" ╲   :)╱│__╱ ╲   ╲        ╱ (:   _) ╲  ╱   ╱  ╲╲  ╲ 
+ ╲_______)(_______╱(_______)   ╲"_____╱   ╲_______)(___╱    ╲___)
+                                                                 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    https://guns.lol/espocabucho.tl 
+```
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,python,js,cs,cpp,golang" />
+  </a>
+</p>
+
+#
+
+<div align="center">
+ 
+**espocalândia**
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@espocabucho77)
+</div>
